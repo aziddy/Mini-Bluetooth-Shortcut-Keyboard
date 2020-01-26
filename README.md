@@ -4,8 +4,8 @@
 
 <p align="center" style="vertical-align: top; position: relative" >
   
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/on.gif?raw=true" width="453"/>  
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/click.gif?raw=true" width="250"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/on.gif?raw=true" width="500"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/click.gif?raw=true" width="276"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/IMG_20200125_152243.jpg?raw=true" width="400"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/IMG_20200125_152254.jpg?raw=true" width="400"/>  
 
