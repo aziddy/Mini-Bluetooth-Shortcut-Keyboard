@@ -5,7 +5,7 @@
 <p align="center" style="vertical-align: top; position: relative" >
   
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/on.gif?raw=true" width="400"/>  
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/on.gif?raw=true" width="300"/>  
+<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-Bluetooth-Shortcut-Keyboard/blob/master/media/click.gif?raw=true" width="300"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/IMG_20200120_173605.jpg?raw=true" width="400"/>  
 <img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/ezgif-7-f63e35a263ec.gif?raw=true" width="400"/>  
 
