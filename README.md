@@ -52,7 +52,7 @@
 ## Wiring
 <p align="center" style="vertical-align: top; position: relative" >
   
-<img align="top" style="vertical-align:top" src="https://github.com/aziddy/Mini-OLED-Retro-Handheld/blob/master/media/oled%20boy%20circuit.PNG?raw=true" width="500"/>
+
 
 </p>
 
